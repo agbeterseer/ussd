@@ -29,7 +29,7 @@
     "mongoose": "^5.8.11",
     "pusher": "^1.5.1",
     "webtask": "^1.0.0",
-    "webtask-tools": "^3.2.0"
+    "webtask-tools": "^3.4.1"
   },
   "devDependencies": {}
 }
